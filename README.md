@@ -1,5 +1,4 @@
-IntelliBucket :rocket:
-Welcome to OmniSynapse GitHub, where innovation meets technology! :computer: We're a leading software development company specializing in AI, IoT, AR/VR, and custom software solutions. Our mission is to help businesses embrace the future with cutting-edge technologies.
+Welcome to IntelliBucket GitHub, where innovation meets technology! :computer: We're a leading software development company specializing in AI, IoT, AR/VR, and custom software solutions. Our mission is to help businesses embrace the future with cutting-edge technologies.
 
 :sparkles: What We Offer
 :brain: AI & Machine Learning - Enhance your business processes and decision-making with data-driven insights.
