@@ -10,8 +10,3 @@ We encourage developers to explore, contribute, and collaborate on our projects.
 
 :email: Connect with Us
 Visit our website for more information or reach out to us via:
-
-Twitter
-LinkedIn
-Facebook
-Join us at OmniSynapse and embrace the future of technology today! :tada:
